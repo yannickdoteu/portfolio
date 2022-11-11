@@ -1,3 +1,6 @@
 [submodule "libc"]
 	path = libc
 	url = git@github.com:yannickdoteu/libc.git
+[submodule "printf"]
+	path = printf
+	url = git@github.com:yannickdoteu/printf.git
